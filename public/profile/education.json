@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - May 2024",
+            "cardTitle": "Bsc, Computer Science",
+            "cardSubtitle":"KOngunadu Arts and Science College, Coimbatore",
+            "cardDetailedText": "CGPA - 7.89",
+            "icon" : {
+
+            }
+        },
+        {
+            "title": "Mar -2021",
+            "cardTitle": "HSLC",
+            "cardSubtitle":"Sindhi Vidyalaya Matriculation Higher Secondary School, Coimbatore",
+            "cardDetailedText": "Marks - 75%"
+        }
+    ]
+}
