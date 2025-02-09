@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Anirudh123a/Portfolio.git",
+  "homepage": "https://github.com/Anirudh123a/React-portfolio.git",
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
@@ -40,12 +40,12 @@
     ]
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
@@ -54,7 +54,6 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "gh-pages": "^6.3.0",
     "react-error-overlay": "6.0.9"
   },
   "resolutions": {
