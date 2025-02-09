@@ -1,0 +1,15 @@
+{
+    "experiences": [
+        {
+            "title": "Software Tester",
+            "subtitle": "CrescoWoorks",
+            "workType": "Internship",
+            "workDescription": [
+                "Assisted in identifying bugs and ensuring software quality.",
+                "Performed manual testing to validate functionality.",
+                "Collaborated with developers to resolve issues and enhance system performance."
+            ],
+            "dateText": "06/2024 – 10/2024"
+        }
+    ]
+}
