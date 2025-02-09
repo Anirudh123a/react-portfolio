@@ -1,24 +1,6 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/1.png",
-            "title": "Book Store",
-            "bodyText": "A MERN bookstore is a full-stack web app for buying and managing books online using MongoDB, Express, React, and Node.js. It features book listings, search, cart, checkout, and admin management.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Anirudh123a/Book-store-Mern.git"
-                }
-            ],
-            "tags" : [
-                "React",
-                "BootStrap",
-                "JavaScript",
-                "vite",
-                "MERN"
-            ]
-        },
-        {
             "image" : "images/projects/portfolio-poster.png",
             "title": "Dev Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
@@ -36,13 +18,32 @@
             ]
         },
         {
+            "image" : "images/projects/1.png",
+            "title": "Book Store",
+            "bodyText": "A MERN bookstore is a full-stack web app for buying and managing books online using MongoDB, Express, React, and Node.js. It features book listings, search, cart, checkout, and admin management.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Anirudh123a/Book-store-Mern.git"
+                }
+            ],
+            "tags" : [
+                "React",
+                "BootStrap",
+                "JavaScript",
+                "vite",
+                "MERN"
+            ]
+        },
+      
+        {
             "image" : "images/projects/caaring-poster.png",
             "title": "E-Commerce Website",
             "bodyText": "An e-commerce clothing website is an online store where customers browse, select, and buy apparel. It features product listings, filters, a shopping cart, secure checkout, and user accounts for a seamless shopping experience",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/Anirudh123a/e_commerce-app.git"
+                    "href": "https://github.com/Anirudh123a/react-portfolio.git"
                 }
             ],
             "tags" : [
